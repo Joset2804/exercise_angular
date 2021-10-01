@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Jose Tarazona",
+      "age": 20,
+      "address": "NoWhere"
+    },
+    {
+      "id": 2,
+      "name": "Cesar Tarazona",
+      "age": 28,
+      "address": "Unknow"
+    },
+    {
+      "id": 3,
+      "name": "Liliana Tarazona",
+      "age": 33,
+      "address": "One Place"
+    },
+    {
+      "id": 4,
+      "name": "Sucethy Villanueva",
+      "age": 20,
+      "address": "NoWhere"
+    },
+    {
+      "id": 5,
+      "name": "Cesar Pablo",
+      "age": 10,
+      "address": "NoWhere"
+    }
+  ]
+}
